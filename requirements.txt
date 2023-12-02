@@ -3,5 +3,5 @@ opencv-python
 torch
 mediapipe
 numpy
-git+https://github.com/ultralytics/yolov5.git@f5b8f7d54c9fa69210da0177fec7ac2d9e4a627c
+git+https://github.com/ultralytics/yolov5.git@v5.0
 
